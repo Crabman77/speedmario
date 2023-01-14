@@ -14,6 +14,10 @@ Launch
 ```sh
 ./speedmario
 ```
+
+A version writed with GDevelop playable in navigator: https://crabman77.itch.io/speed-mario
+
+
 ![speedmario](images/screen1.png)
 
 ![speedmario](images/screen2.png)
